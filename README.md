@@ -10,5 +10,4 @@ aspiring **AI Engineer** focused on turning raw data into practical, intelligent
 `Python` • `NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Seaborn` • `Git`
 
 ### 📫 How to Reach Me
-- **Email:** yashsharma24x@gmail.com
-- **LinkedIn:** 
+- **Email:** yashsharma24x@gmail.com 
